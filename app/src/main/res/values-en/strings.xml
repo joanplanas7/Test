@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tasca2Manipulacio</string>
+    <string name="mostrar">show</string>
+    <string name="amagar">To hide</string>
+    <string name="colort">Text color</string>
+    <string name="colorf">" background color"</string>
+    <string name="disminuir">decrease</string>
+    <string name="augmentar">" to increase"</string>
+    <string name="restar">subtract</string>
+    <string name="sumar">add</string>
+</resources>

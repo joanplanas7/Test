@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tasca2Manipulacio</string>
+    <string name="sumar">Sumar</string>
+    <string name="restar">Restar</string>
+    <string name="augmentar">Augmentar</string>
+    <string name="disminuir">Disminuir</string>
+    <string name="amagar">Amagar</string>
+    <string name="mostrar">Mostrar</string>
+    <string name="colort">Color Text</string>
+    <string name="colorf">Color Fons</string>
+</resources>
